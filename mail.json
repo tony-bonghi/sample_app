@@ -1,0 +1,122 @@
+{
+    "Abstract": null,
+    "AbstractList": null,
+    "Audience": null,
+    "Author": [
+        "van Riel, P. L",
+        "de Jong, A. J",
+        "van de Putte, L. B",
+        "Haagsma, C. J"
+    ],
+    "AuthorAffiliation": null,
+    "AuthorEmail": null,
+    "Author_xml": [
+        {
+            "fullname": "Haagsma, C. J",
+            "givenname": "C. J",
+            "organization": null,
+            "sequence": "1",
+            "surname": "Haagsma"
+        },
+        {
+            "fullname": "van Riel, P. L",
+            "givenname": "P. L",
+            "organization": null,
+            "sequence": "2",
+            "surname": "van Riel"
+        },
+        {
+            "fullname": "de Jong, A. J",
+            "givenname": "A. J",
+            "organization": null,
+            "sequence": "3",
+            "surname": "de Jong"
+        },
+        {
+            "fullname": "van de Putte, L. B",
+            "givenname": "L. B",
+            "organization": null,
+            "sequence": "4",
+            "surname": "van de Putte"
+        }
+    ],
+    "ContentType": [
+        "Journal Article"
+    ],
+    "Copyright": null,
+    "CorporateAuthor": null,
+    "DOI": [
+        "10.1093/rheumatology/36.10.1082"
+    ],
+    "Description": null,
+    "Discipline": [
+        "Medicine"
+    ],
+    "DocumentTitleAlternate": null,
+    "EISBN": null,
+    "EISSN": [
+        "1462-0332"
+    ],
+    "Edition": null,
+    "Editor": null,
+    "EndPage": [
+        "1088"
+    ],
+    "GeographicLocations": null,
+    "GrantInformation": null,
+    "ID": [
+        "FETCH-LOGICAL-c1037-de85aaa1bd9a964249a13e2c108c03d5c6a582631635c1219e0b8dcf7c52f2953"
+    ],
+    "ISBN": null,
+    "ISSN": [
+        "1462-0324",
+        "0263-7103"
+    ],
+    "IsPeerReviewed": [
+        "true"
+    ],
+    "Issue": [
+        "10"
+    ],
+    "Keywords": null,
+    "Language": [
+        "English"
+    ],
+    "Notes": null,
+    "PMID": null,
+    "PublicationDate": [
+        "1997-10-01",
+        "19971001"
+    ],
+    "PublicationSeriesTitle": null,
+    "PublicationSubtitle": null,
+    "PublicationTitle": [
+        "Rheumatology"
+    ],
+    "PublicationTitleAbbrev": null,
+    "PublicationTitleAlternate": null,
+    "PublicationYear": [
+        "1997"
+    ],
+    "Publisher": [
+        "Oxford Publishing Limited(England)"
+    ],
+    "Series": null,
+    "SourceID": [
+        "proquest",
+        "crossref"
+    ],
+    "StartPage": [
+        "1082"
+    ],
+    "SubjectTerms": null,
+    "Subtitle": null,
+    "TableOfContents": null,
+    "Title": [
+        "Combination of sulphasalazine and methotrexate versus the single components in early rheumatoid arthritis: a randomized, controlled, double-blind, 52 week clinical trial"
+    ],
+    "Volume": [
+        "36"
+    ],
+    "peerDocuments": null
+}
